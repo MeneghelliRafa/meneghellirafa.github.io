@@ -1,0 +1,25 @@
+display
+
+    inline =
++   mesma linha
+-   width height
+*   compart. palavra
+*   tamahho conteudo
+
+    block =
+-   mesma linha
++   width height
+*   width 100% do pai
+*   height conteudo
+
+    inline-block =
++   mesma linha
++   width height
+*   comport. palavra
+*   tamanho conteudo
+
+    padding =
++   mexe na "caixa" pro lado de dentro do elemento/cresce o conteudo
+
+    margin =
++   mexe na "caixa" pro lado de fora do elemento
